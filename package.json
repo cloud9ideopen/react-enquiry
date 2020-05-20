@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloud9ide/react-enquiry.git"
+    "url": "git+https://github.com/cloud9ideopen/react-enquiry.git"
   },
   "keywords": [
     "react",
@@ -27,9 +27,9 @@
   "author": "Matthijs van Henten <matthijs@c9.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloud9ide/react-enquiry/issues"
+    "url": "https://github.com/cloud9ideopen/react-enquiry/issues"
   },
-  "homepage": "https://github.com/cloud9ide/react-enquiry#readme",
+  "homepage": "https://github.com/cloud9ideopen/react-enquiry#readme",
   "devDependencies": {
     "async": "^2.1.2",
     "babel-cli": "^6.26.0",

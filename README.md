@@ -23,7 +23,7 @@ Enquiry makes it easy to create re-usable form sub-sections by attaching child-w
 The [documentation site](http://cloud9ide.github.io/react-enquiry/) is a showcase
 of enquiry's features. 
 
-Examples from the documentation site can be found [here](https://github.com/cloud9ide/react-enquiry/tree/master/docsite/site/example)
+Examples from the documentation site can be found [here](https://github.com/cloud9ideopen/react-enquiry/tree/master/docsite/site/example)
 
 #### Getting values from input elements
 
